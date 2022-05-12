@@ -7,7 +7,7 @@
 * Year: 2022
 </i>
 
-***For News Fetcher***
+***For News Fetcher -Project***
 
 To Install requests module :
 ```
